@@ -100,4 +100,4 @@ To get the average performance on the new classes, run
 
 ## Acknowledgements
 
-Our code is based on CoOp and MaPLe repository. We thank the authors for releasing their code.
+Our code is based on CoOp and MaPLe repositories and corresponding reference paper. We thank all the authors for releasing their code.
