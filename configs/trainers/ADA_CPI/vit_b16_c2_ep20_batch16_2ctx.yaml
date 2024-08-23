@@ -1,9 +1,9 @@
 DATALOADER:
   TRAIN_X:
-    BATCH_SIZE: 4
+    BATCH_SIZE: 
   TEST:
-    BATCH_SIZE: 1
-  NUM_WORKERS: 8
+    BATCH_SIZE: 
+  NUM_WORKERS: 
 
 INPUT:
   SIZE: (224, 224)
@@ -24,7 +24,7 @@ OPTIM:
 OPTIM1:
   NAME: "sgd"
   LR: 0.0045
-  MAX_EPOCH: 20
+  MAX_EPOCH: 
   LR_SCHEDULER: "cosine"
   WARMUP_TYPE: "constant"
   WARMUP_EPOCH: 1
